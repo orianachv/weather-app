@@ -1,6 +1,6 @@
-#Weather App
+# Weather App
 
-##Descripción:
+## Descripción:
 En esta app podrás ver el pronóstico del tiempo de la ciudad que quieras, por intervalo de horas y hasta cinco días desde la fecha actual.
 
 ## Setup:
